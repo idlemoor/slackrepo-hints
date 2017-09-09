@@ -1,0 +1,3 @@
+OPTIONS="MKCHROOT_IGNORE_LN_ERRORS=yes"
+PRAGMA="nofakeroot"
+NOWARNING="Nonstandard directories"
