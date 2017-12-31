@@ -1,0 +1,2 @@
+GROUPADD="349:telegraf"
+USERADD="349:telegraf:-d/dev/null"
