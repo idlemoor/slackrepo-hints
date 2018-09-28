@@ -1,2 +1,2 @@
-OPTIONS="ENABLE_COLORHUG=true ENABLE_DELL=true ENABLE_UEFI=true ENABLE_UEFI_LABELS=true"
-ADDREQUIRES="colord fwupdate pygobject3-python3 python3-pillow py3cairo"
+OPTIONS="ENABLE_DELL=true ENABLE_UEFI=true ENABLE_UEFI_LABELS=true"
+ADDREQUIRES="fwupdate pygobject3-python3 python3-pillow py3cairo"
